@@ -1,0 +1,15 @@
+/build/
+/out/
+/.vs/
+/.idea/
+/.vscode/
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.ppm
+CMakeUserPresets.json
+
+# Standalone Windows build shipped with this project
+!/AmberGrove.exe
